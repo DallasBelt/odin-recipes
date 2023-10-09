@@ -1,0 +1,1 @@
+This small project was created to practice the HTML tags learned throughout [The Odin Project](https://www.theodinproject.com) Foundations course.
